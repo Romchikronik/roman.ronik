@@ -46,7 +46,6 @@ body {
   text-align: center;
   text-transform: uppercase;
   color: #064572;
-  font-family: 'Lato';
   font-weight: 900;
   font-size: 28px;
   margin-bottom: 25px;
@@ -85,7 +84,6 @@ section {
 
 .logo {
   color: #fff;
-  font-family: 'Lato';
   font-weight: 900;
   font-size: 21px;
   position: relative;
